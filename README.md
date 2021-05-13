@@ -2,16 +2,25 @@
 
 ### Date created
 Include the date you created this project and README file.
+5/13/2021
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+### BikeShare Project Python
+
+
+### Python file used to analyze bike sharing data across 3 cities
+Chicago
+New York
+Washington
+
+#### Also used to review data based on ride time, gender, and age.
 
 ### Files used
-Include the files used
+bikshare_2.py
+chicago
+new_york_city
+washington
+README
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
 
