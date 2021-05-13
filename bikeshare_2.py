@@ -192,5 +192,7 @@ def main():
             break
 
 
+# Initializer function 
+
 if __name__ == "__main__":
 	main()
