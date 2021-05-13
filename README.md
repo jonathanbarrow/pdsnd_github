@@ -8,6 +8,11 @@ Include the date you created this project and README file.
 
 
 ### Python file used to analyze bike sharing data across 3 cities
+Chicago
+New York
+Washington
+
+#### Also used to review data based on ride time, gender, and age.
 
 ### Files used
 bikshare_2.py
